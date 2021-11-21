@@ -7,19 +7,12 @@
     />
 </p>
 
-<p align="center">
-  <a align="center" target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
-      <img align="left" alt="NodeJs" src="https://img.shields.io/badge/NodeJs-%3E%3D%2016.13.0-green" />
-  </a>
-  
-  <a align="center" target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
-      <img align="left" alt="NodeJs" src="https://img.shields.io/badge/build-passing-green" />
-  </a>
-</p>
-
-<br />
-
 <h1></h1>
+
+<p align="center">
+  <img alt="NodeJs" src="https://img.shields.io/badge/NodeJs-%3E%3D%2016.13.0-green" />
+  <img alt="NodeJs" src="https://img.shields.io/badge/build-passing-green" />
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
